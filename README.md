@@ -1,5 +1,4 @@
 # Analytics for Hospitals' Health-Care Data
-Analytics For Hospitals' Health-Care Data
 
 ![image](https://user-images.githubusercontent.com/82984119/193977794-762c3653-43d0-490b-94ab-4e641cf42e13.png)
 
