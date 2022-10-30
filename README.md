@@ -16,7 +16,7 @@ This parameter helps hospitals to identify patients of high LOS-risk (patients w
 # Technical Architecture:
 
 
-![download](https://https://www.google.com/url?sa=i&url=https%3A%2F%2Fonlinedegrees.kent.edu%2Fischool%2Fhealth-informatics%2Fcommunity%2Fwhy-is-data-analytics-important-in-healthcare&psig=AOvVaw1mL2tpe4qmiuodGscctDNA&ust=1667224731945000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPCO0qCOiPsCFQAAAAAdAAAAABAD)
+![download](https://user-images.githubusercontent.com/82984119/190869831-2b7327c7-1629-4cc9-b8ec-a5a21fb1b0ec.png)
 
 # Beneficial Users:
 
